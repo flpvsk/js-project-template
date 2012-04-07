@@ -1,5 +1,0 @@
-
-main.js
-----------------
-lib/jquery.js
-main.js
